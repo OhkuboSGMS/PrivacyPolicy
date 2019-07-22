@@ -1,3 +1,7 @@
++++
+title = "Privacy Policy(Web)"
+date = "2019-07-22"
++++
 
 広告の配信について
 

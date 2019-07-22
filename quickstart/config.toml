@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+DefaultContentLanguage = "ja"
+
+languageCode = "ja-JP"
+title = "Privacy Policies"
+theme = "minimal-bootstrap-hugo-theme"
+
+[menu]
+  [[menu.nav]]
+  name = "Posts"
+  url = "/"
+  weight = 1
