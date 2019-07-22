@@ -1,5 +1,6 @@
 baseURL = "https://privacypolicy-homura.netlify.com/"
 DefaultContentLanguage = "ja"
+copyright = "Everything is mine"
 
 languageCode = "ja-JP"
 title = "Privacy Policies"
