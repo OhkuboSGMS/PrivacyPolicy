@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://privacypolicy-homura.netlify.com/"
 DefaultContentLanguage = "ja"
 
 languageCode = "ja-JP"
