@@ -1,4 +1,11 @@
-# License of Ascii Image Generate
++++
+
+title = "License - Image Ascii Generator"
+date = "2019-08-16"
+ 
++++
+
+# License of Ascii Image Generator
 
 ## flutter 
 Copyright 2014 The Chromium Authors. All rights reserved.
