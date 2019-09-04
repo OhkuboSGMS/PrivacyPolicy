@@ -13,6 +13,14 @@ AAから画像を生成することができます.
 {{< rawhtml >}}<a href="https://apps.apple.com/jp/app/aa%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF/id1477042654?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2019-08-30&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a><a href="https://apps.apple.com/jp/app/aa%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF/id1477042654?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2019-08-30&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a>
 {{< /rawhtml >}}
 
+
+<a href='https://play.google.com/store/apps/details?id=tech.homura.i2a2i&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Google Play で手に入れよう' src='https://play.google.com/intl/en_us/badges/images/generic/ja_badge_web_generic.png'/></a>
+
+現在サービスの負荷軽減のため変換できる画像サイズを**2MB**までに
+制限しています。
+
+高画質な写真などでは変換できない場合があることをご容赦ください.
+
 ## 画面説明
 
 
