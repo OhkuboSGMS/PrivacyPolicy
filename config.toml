@@ -6,6 +6,9 @@ languageCode = "ja-JP"
 title = "Privacy Policies"
 theme = "minimal-bootstrap-hugo-theme"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [menu]
   [[menu.nav]]
   name = "Posts"
