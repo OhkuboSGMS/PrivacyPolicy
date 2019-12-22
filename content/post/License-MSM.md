@@ -5,8 +5,6 @@ date = "2019-12-20"
  
 +++
 
-# License
-
 ## Flutter 
 Copyright 2014 The Flutter Authors. All rights reserved.
 
