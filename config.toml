@@ -5,7 +5,6 @@ copyright = "Everything is mine"
 languageCode = "ja-JP"
 title = "Privacy Policies"
 theme = "minimal-bootstrap-hugo-theme"
-canonifyurls= true
 
 [markup.goldmark.renderer]
 unsafe= true
