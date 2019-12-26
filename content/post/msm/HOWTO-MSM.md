@@ -11,14 +11,18 @@ date = "2019-12-20"
 
 今までの貯金履歴をグラフやカレンダーで確認できます.
 
-![google-play](img/google-play.png)
-![app-store](img/app-store.png)
+![google-play](/img/google-play.png)
+![app-store](/img/app-store.png)
 
 ### 画面説明
-{{< figure src="msm/main.png" caption="表">}}
+アプリの各画面の機能について説明.
+
 
 #### 貯金画面
 
+貯金画面では貯金目標別にカードで表示されます.
+
+{{< figure src="msm/main.png" caption="表">}}
 #### カレンダー画面
 
 #### 設定画面
