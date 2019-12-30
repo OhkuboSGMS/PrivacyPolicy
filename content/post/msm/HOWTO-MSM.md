@@ -12,10 +12,7 @@ date = "2019-12-20"
 
 今までの貯金履歴をグラフやカレンダーで確認できます.
 
-{{< figure src="/img/google-play.png" link="https://play.google.com/store/apps/details?id=tech.homura.msm" caption="google-play"
- height="10%" width="10%">}}
-{{< figure src="/img/app-store.png" link="" caption="app-store"
- height="10%" width="10%">}}
+
 
 ### 画面説明
 アプリの各画面の機能について説明.
